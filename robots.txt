@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sionymposet.github.io/sitemap
+Sitemap: https://sionymposet.github.io/app/sitemap
+Sitemap: https://sionymposet.github.io/assets/sitemap
+Sitemap: https://sionymposet.github.io/css/sitemap
+Sitemap: https://sionymposet.github.io/includes/sitemap
+Sitemap: https://sionymposet.github.io/item/sitemap
+Sitemap: https://sionymposet.github.io/src/sitemap
